@@ -1,0 +1,9 @@
+.heading {
+  width: 300px;
+}
+.Container {
+  margin-top: 10px;
+  max-width: 300px;
+  max-height: 450px;
+  border: 2px solid black;
+}

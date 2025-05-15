@@ -1,0 +1,22 @@
+.my-list {
+  font-weight: bold;
+  background-color: #f9f9f9;
+  padding: 10px;
+  border-radius: 5px;
+  color: #333;
+  margin-bottom: 8px;
+  transition: background-color 0.3s ease;
+}
+
+/* .my-list:hover {
+  background-color: #e0e0e0;
+} */
+.list-div {
+  max-width: 300px;
+  text-align: left;
+}
+.button {
+  margin: 0px;
+  float: right;
+  text-align: center;
+}
